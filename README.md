@@ -2,7 +2,7 @@
 
 [English](./README.en.md)
 
-我把 AI 想法做成可体验、可验证、可迭代的产品原型，关注 AI 产品工程、知识工作流和个人效率工具。
+AI 产品工程作品集：可体验、可验证、可迭代的产品原型。方向包括 AI 产品工程、知识工作流和个人效率工具。
 
 `AI Product Engineering` · `Workflow Automation` · `Full-stack Prototyping`
 
@@ -27,7 +27,7 @@
 
 ## How to read these projects
 
-这些项目的共同点，是把一个 AI 产品想法推进到可演示、可复盘、可继续迭代的形态：
+项目共同点：把 AI 产品想法推进到可演示、可复盘、可继续迭代的形态。
 
 - 从问题定义到产品路径：`Siwei City`、`OneJD OneResume`
 - 从用户体验到长期关系：`CyberLover`

@@ -2,7 +2,7 @@
 
 [中文](./README.md)
 
-I turn AI ideas into usable, testable, and iterative product prototypes, with a focus on AI product engineering, knowledge workflows, and personal productivity tools.
+AI product engineering portfolio: usable, testable, and iterative product prototypes across AI product engineering, knowledge workflows, and personal productivity tools.
 
 `AI Product Engineering` · `Workflow Automation` · `Full-stack Prototyping`
 
@@ -27,7 +27,7 @@ I turn AI ideas into usable, testable, and iterative product prototypes, with a 
 
 ## How to read these projects
 
-The common thread is the ability to move an AI product idea into a demoable, reviewable, and iterative shape:
+Project focus: moving AI product ideas into demoable, reviewable, and iterative shapes.
 
 - Problem framing to product workflow: `Siwei City`, `OneJD OneResume`
 - User experience and long-term relationship design: `CyberLover`
