@@ -16,15 +16,6 @@ AI product engineering portfolio: usable, testable, and iterative product protot
 | [SparkWeave](https://github.com/brocademaple/SparkWeave) | A creative/content workflow product currently iterating locally; the public repository will be updated with full docs and screenshots after sync. | Local iteration |
 | [MCP Training System](https://github.com/brocademaple/mcp_training-system) | A prototype for training/business workflow tooling and MCP-based system integration. | Prototype |
 
-## Earlier / Experiments
-
-| Project | Note |
-|---|---|
-| [effect_sucai_make](https://github.com/brocademaple/effect_sucai_make) | A small creative-asset utility kept as an experiment. |
-| [n8n-learning](https://github.com/brocademaple/n8n-learning) | Notes from learning and building n8n workflows. |
-| [old_blog_bcmp](https://github.com/brocademaple/old_blog_bcmp) | Archived blog work, no longer a primary profile entry. |
-| [manageme](https://github.com/brocademaple/manageme) | Earlier experiment with lower display priority. |
-
 ## How to read these projects
 
 Project focus: moving AI product ideas into demoable, reviewable, and iterative shapes.
